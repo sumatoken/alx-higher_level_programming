@@ -29,3 +29,7 @@ This Python script prints a number follwoed by a string to sdtout usig the built
 ## File: 4-print_float.py
 
 This Python script prints the float `3.14159` with a precision of 2 digits.
+
+## File: 5-print_string.py
+
+This Python script print a string 3 times followed by the first three digits (without any loops).
