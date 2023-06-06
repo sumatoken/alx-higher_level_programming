@@ -17,3 +17,7 @@ This is a shell script that runs a Python script. The Python script is specified
 ## File: 1-run_inline
 
 This shell script executes python code saved in an environment variable named `$PYCODE`.
+
+## File: 2-print.py
+
+This Python script prints a string to stdout using the builtin `print` function.
