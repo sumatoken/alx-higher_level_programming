@@ -14,3 +14,6 @@ In this directory, the task was to write a shell script that runs a Python scrip
 
 This is a shell script that runs a Python script. The Python script is specified by the environment variable `$PYFILE`.
 
+## File: 1-run_inline
+
+This shell script executes python code saved in an environment variable named `$PYCODE`.
