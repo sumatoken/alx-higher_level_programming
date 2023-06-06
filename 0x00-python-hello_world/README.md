@@ -21,3 +21,7 @@ This shell script executes python code saved in an environment variable named `$
 ## File: 2-print.py
 
 This Python script prints a string to stdout using the builtin `print` function.
+
+## file: 3-print_number.py
+
+This Python script prints a number follwoed by a string to sdtout usig the builtin `print` and the `f` string format.
